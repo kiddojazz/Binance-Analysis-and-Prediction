@@ -7,3 +7,4 @@ The architecture outlines what we intend to explore in this article, giving a st
 
 In this article, I will show you how to connect your Python to Binance API to get real-time data with the Python-Binance library, clean and transform the data using Pandas, analyze the data using mplfinance and create a predictive model using the Tensorflow Keras library.
 
+![Project Flow Architecture](https://github.com/kiddojazz/Binance-Analysis-and-Prediction/blob/master/Image/Project%20Architecture.png)
